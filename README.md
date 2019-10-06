@@ -4,10 +4,10 @@ Basic django rest framework login register and logout with tokens as well as soc
 ### Endpoints
 
 /rest-auth/login/ (POST)
-..* username
-..* email
-..* password
-      Returns Token key
+* username
+* email
+* password
+   Returns Token key
 
 /rest-auth/logout/ (POST)
 
